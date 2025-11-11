@@ -6,7 +6,7 @@
 <h3 align="left">informations;</h3>
 
 - in my free time, i play minecraft anarchy servers
-- 
+
 - i have an own anarchy server too, you can join through **mc.corruptedworld.eu** ip address
 
 - i study it and telecommunications
